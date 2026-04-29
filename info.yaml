@@ -1,18 +1,18 @@
 
 # Tiny Tapeout project information
 project:
-  title:        "fff"      # Project title
-  author:       "fff"      # Your name
-  discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "ffff"      # One line description of what your project does
-  language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
+  title:        "Xyrus"      # Project title
+  author:       "Xyrus"      # Your name
+  discord:      "Xyrus"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
+  description:  "Xyrus"      # One line description of what your project does
+  language:     "Xyrus" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     25175000       # Clock frequency in Hz (or 0 if not applicable)
 
   # How many tiles your design occupies? A single tile is about 167x108 uM.
   tiles: "1x1"          # Valid values: 1x1, 1x2, 2x2, 3x2, 4x2, 6x2 or 8x2
 
   # Your top module name must start with "tt_um_". Make it unique by including your github username:
-  top_module:  "tt_um_tinytapeout_lol123"
+  top_module:  "tt_um_tinytapeout_dvd_screensaver"
   
   # List your project's source files here. Source files must be in ./src and you must list each source file separately, one per line:
   source_files:
